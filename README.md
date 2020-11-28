@@ -26,13 +26,9 @@ There are 5 deliverables for this project:
 
 2.1  Data reading
 
-2.2a  Data cleaning: tn_movie_budgets
+2.2  Data cleaning
 
-2.2b  Data cleaning: imdb_title_basics
-
-2.2c  Joining the two dataframes
-
-2.3  Data cleaning
+2.3  Joining the dataframes and save as a seperated notebook
 
 **3.  Data Visualization**
 
