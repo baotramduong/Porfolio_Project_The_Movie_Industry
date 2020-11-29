@@ -32,17 +32,19 @@ There are 5 deliverables for this project:
 
 **3.  Data Visualization**
 
-3.1  Budget
+3.1  Production udget
 
-3.2  Runtime
+3.2  Genre
 
-3.3  Genre
+3.3  Runtime
 
-3.4a  Release time: date
+3.4 Rating
 
-3.4b  Release time: month
+3.5a  Release time: date
 
-3.4c  Release time: day
+3.5b  Release time: month
+
+3.5c  Release time: day
 
 **4.  Conclusion and Future Work**
 
