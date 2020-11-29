@@ -14,7 +14,7 @@ There are 5 deliverables for this project:
 
 **1.  Introduction**
 
-1.1  Problem Statement
+1.1  Business Statement
 
 1.2  The Approach
 
@@ -32,19 +32,15 @@ There are 5 deliverables for this project:
 
 **3.  Data Visualization**
 
-3.1  Production udget
+3.1  Production budget
 
 3.2  Genre
 
 3.3  Runtime
 
-3.4 Rating
+3.4  Rating & Number of Votes
 
-3.5a  Release time: date
-
-3.5b  Release time: month
-
-3.5c  Release time: day
+3.5a  Release time
 
 **4.  Conclusion and Future Work**
 
