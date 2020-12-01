@@ -1,7 +1,7 @@
 # Creating the Next Blockbuster Movie Using Data Science
 This project was completed as part of Flatiron School's Data Science Bootcamp (November 2020)
 
-### The Deliverables
+## The Deliverables
 There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
@@ -10,9 +10,9 @@ There are 5 deliverables for this project:
 4. A Blog Post which can be found at https://btramduong0810.github.io/
 5. A Video Walkthrough of my non-technical presentation.
 
-### **Notebook Table of Contents**
+## **Notebook Table of Contents**
 
-**1.  Introduction**
+### **1.  Introduction**
 
 1.1  Business Statement
 
@@ -22,7 +22,7 @@ There are 5 deliverables for this project:
 
 1.4  Methodology
 
-**2.  Data Preparation**
+### **2.  Data Preparation**
 
 2.1  Data reading
 
@@ -30,7 +30,7 @@ There are 5 deliverables for this project:
 
 2.3  Joining the dataframes and save as a seperated notebook
 
-**3.  Data Visualization**
+### **3.  Data Visualization**
 
 3.1  Production budget
 
@@ -46,7 +46,7 @@ There are 5 deliverables for this project:
 
 3.7 Others: Director, Writer, Critic
 
-**4.  Conclusion and Future Work**
+### **4.  Conclusion and Future Work**
 
 4.1  Summary of Findings
 
@@ -54,6 +54,6 @@ There are 5 deliverables for this project:
 
 4.3  Future Works
 
-### Key Findings
+## Key Findings
 
-### Actionable Insights
+## Actionable Insights
