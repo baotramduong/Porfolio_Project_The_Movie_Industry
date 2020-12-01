@@ -40,7 +40,11 @@ There are 5 deliverables for this project:
 
 3.4  Rating & Number of Votes
 
-3.5a  Release time
+3.5  Release time
+
+3.6 Others: Source, Creative Type, Production Method
+
+3.7 Others: Director, Writer, Critic
 
 **4.  Conclusion and Future Work**
 
