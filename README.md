@@ -37,7 +37,6 @@ I.2.1 Data Sources:
 I.2.2  Data reading
 
 I.2.3  Data cleaning
-
             - Budget
             - Domestic gross, worldwide gross
             - Runtime
@@ -45,12 +44,15 @@ I.2.3  Data cleaning
             - Language
             - Region
             - Studio
-            - Populatiry: 
+            - Populatiry / Words of mouth: 
+                    Vote count
+                    Vote average
+                    Popularity
+                    Critic review
+                    Publisher
             - Production crew: 
                     Director
                     Writer
-                    Critic
-                    Publisher
 
 I.2.4  Joining the dataframes
 
@@ -87,15 +89,18 @@ II.2.4  Joining the dataframes
 
 1.2  Genre vs. Gross
 
-1.3  Runtime vs. Gross
+1.3  Others: Source, Creative Type, Production Method vs. Gross
 
-1.4  Popularity: Rating & Number of Votes vs. Gross
+1.4  Runtime vs. Gross
 
 1.5  Release time vs. Gross
 
-1.6 Others: Source, Creative Type, Production Method vs. Gross
+1.6 Others: Director, Writer, Critic, Publisher vs. Gross
 
-1.7 Others: Director, Writer, Critic, Publisher vs. Gross
+1.7  Popularity / Words of Mouth: 
+
+            - Rating & number of votes vs. Gross
+            - Critic review vs. Gross
 
 ### **2. Actionable Insights**
 
