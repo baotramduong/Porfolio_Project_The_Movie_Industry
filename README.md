@@ -27,16 +27,18 @@ There are 5 deliverables for this project:
 
 ### **2.  Data Preparation From Provided Data**
 
-I.2.1 Data Sources:
+I.2.1 Methodology
+
+I.2.2 Data Sources:
       
             - Box Office Mojo
             - IMDB
             - Rotten Tomatoes
             - TheMovieDB.org
 
-I.2.2  Data reading
+I.2.3  Data reading
 
-I.2.3  Data cleaning
+I.2.4  Data cleaning
 
             - Budget
             - Domestic gross, worldwide gross
@@ -55,7 +57,9 @@ I.2.3  Data cleaning
                     Director
                     Writer
 
-I.2.4  Joining the dataframes
+I.2.5  Joining the dataframes
+
+II.2.6 Quick data analysis
 
 ## PART II: Data Cleaning and Preparation From Scraped Data
 
@@ -65,13 +69,15 @@ I.2.4  Joining the dataframes
 
 ### **2.  Data Preparation From Scraped Data**
 
-II.2.1 Data Sources:
+II.2.1 Methodology
+
+II.2.2 Data sources:
       
             - www.the-numbers.com
 
-II.2.2  Data scraping
+II.2.3  Data scraping
 
-II.2.3  Data cleaning
+II.2.4  Data cleaning
 
             - Budget
             - Domestic gross, international gross, worldwide gross
@@ -80,7 +86,9 @@ II.2.3  Data cleaning
             - Creative type
             - Production method 
 
-II.2.4  Joining the dataframes
+II.2.5  Joining the dataframes
+
+II.2.6 Quick data analysis
 
 ## PART III: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
