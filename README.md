@@ -40,25 +40,25 @@ I.2.3  Data reading
 
 I.2.4  Data cleaning
 
-I.2.4.a Production budget & gross:
+            I.2.4.a Production budget & gross:
 
             - Budget
             - Domestic gross, worldwide gross
             
-I.2.4.b Populatiry / Words of mouth: 
+            I.2.4.b Populatiry / Words of mouth: 
 
             - Vote count
             - Vote average
             - Popularity       
             
-I.2.4.c Movie Basics:
+            I.2.4.c Movie Basics:
             
             - Runtime
             - Genre
             - Language
             - Studio
            
-I.2.4.d Production Crew: 
+            I.2.4.d Production Crew: 
 
             - Director
             - Writer
