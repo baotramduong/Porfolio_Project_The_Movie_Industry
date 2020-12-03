@@ -17,7 +17,7 @@ There are 5 deliverables for this project:
 4. A Blog Post which can be found at: https://btramduong0810.github.io/
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
-## **Notebook Table of Contents**
+# **Notebook Table of Contents**
 
 ## PART I: Data Cleaning and Preparation From Provided Data
 
@@ -54,7 +54,7 @@ I.2.3  Data cleaning
 
 I.2.4  Joining the dataframes
 
-## PART II: Data cleaning and preparation from scrape data
+## PART II: Data Cleaning and Preparation From Scrape data
 
 ### **1.  Introduction**
 
