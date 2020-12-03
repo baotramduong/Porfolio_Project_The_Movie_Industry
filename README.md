@@ -56,7 +56,7 @@ I.2.3  Data cleaning
 
 I.2.4  Joining the dataframes
 
-## PART II: Data Cleaning and Preparation From Scrape data
+## PART II: Data Cleaning and Preparation From Scraped Data
 
 ### **1.  Introduction**
 
