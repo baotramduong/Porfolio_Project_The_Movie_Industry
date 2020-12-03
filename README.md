@@ -5,54 +5,107 @@ This project was completed as part of Flatiron School's Data Science Bootcamp (N
 There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
+
+            - Part 1: Data cleaning from provided data
+            
+            - Part 2: Data cleaning from scraped data
+            
+            - Part 3: Data analysis and visualization + actionable insights + conclusion & future works
+            
 2. An organized README.md file that describes the contents of the repository.
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders.
-4. A Blog Post which can be found at https://btramduong0810.github.io/
-5. A Video Walkthrough of my non-technical presentation.
+4. A Blog Post which can be found at: https://btramduong0810.github.io/
+5. A Video Walkthrough of my non-technical presentation, can be found at:
 
 ## **Notebook Table of Contents**
+
+## PART I: Data Cleaning and Preparation From Provided Data
 
 ### **1.  Introduction**
 
 1.1  Business Statement
 
-1.2  The Approach
+### **2.  PART I: Data Preparation From Provided Data**
 
-1.3  Data Sources
+I.2.1 Data Sources:
+      
+            - Box Office Mojo
+            - IMDB
+            - Rotten Tomatoes
+            - TheMovieDB.org
 
-1.4  Methodology
+I.2.2  Data reading
 
-### **2.  Data Preparation**
+I.2.3  Data cleaning
 
-2.1  Data reading
+            - Budget
+            - Domestic gross, worldwide gross
+            - Runtime
+            - Genre
+            - Language
+            - Region
+            - Studio
+            - Populatiry: 
+            - Production crew: 
+                    Director
+                    Writer
+                    Critic
+                    Publisher
 
-2.2  Data cleaning
+I.2.4  Joining the dataframes
 
-2.3  Joining the dataframes and save as a seperated notebook
+## PART II: Data cleaning and preparation from scrape data
 
-### **3.  Data Visualization**
+### **1.  Introduction**
 
-3.1  Production budget
+1.1  Business Statement
 
-3.2  Genre
+### **2.  PART I: Data Preparation From Provided Data**
 
-3.3  Runtime
+II.2.1 Data Sources:
+      
+            - www.the-numbers.com
 
-3.4  Rating & Number of Votes
+II.2.2  Data reading
 
-3.5  Release time
+II.2.3  Data cleaning
 
-3.6 Others: Source, Creative Type, Production Method
+            - Budget
+            - Domestic gross, international gross, worldwide gross
+            - Genre
+            - Source
+            - Creative type
+            - Production method 
 
-3.7 Others: Director, Writer, Critic
+II.2.4  Joining the dataframes
 
-### **4.  Conclusion and Future Work**
+## PART III: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
-4.1  Summary of Findings
+### **1. Data Visualization**
 
-4.2  Actionable Insights
+1.1  Budget vs. Gross
 
-4.3  Future Works
+1.2  Genre vs. Gross
+
+1.3  Runtime vs. Gross
+
+1.4  Popularity: Rating & Number of Votes vs. Gross
+
+1.5  Release time vs. Gross
+
+1.6 Others: Source, Creative Type, Production Method vs. Gross
+
+1.7 Others: Director, Writer, Critic, Publisher vs. Gross
+
+### **2. Actionable Insights**
+
+### **3.  Conclusion and Future Work**
+
+3.1  Summary of Findings
+
+3.2  Actionable Insights
+
+3.3  Future Works
 
 ## Key Findings
 
