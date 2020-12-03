@@ -40,24 +40,35 @@ I.2.3  Data reading
 
 I.2.4  Data cleaning
 
+I.2.4.a Production budget & gross:
+
             - Budget
             - Domestic gross, worldwide gross
+            
+I.2.4.b Populatiry / Words of mouth: 
+
+            - Vote count
+            - Vote average
+            - Popularity       
+            
+I.2.4.c Movie Basics:
+            
             - Runtime
             - Genre
             - Language
-            - Region
             - Studio
-            - Populatiry / Words of mouth: 
-                    Vote count
-                    Vote average
-                    Popularity
-                    Critic review
-                    Publisher
-            - Production crew: 
-                    Director
-                    Writer
+           
+I.2.4.d Production Crew: 
+
+            - Director
+            - Writer
 
 I.2.5  Joining the dataframes
+
+             - Production budget & gross: movie_budgets_gross_df
+             - Movie basics: release date, genre, runtime, language:
+             - Popularity/ Words of mouth: vote count, vote average, popularity score
+             - Production crew: director, writer
 
 II.2.6 Quick data analysis
 
