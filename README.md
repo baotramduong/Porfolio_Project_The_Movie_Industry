@@ -37,6 +37,7 @@ I.2.1 Data Sources:
 I.2.2  Data reading
 
 I.2.3  Data cleaning
+
             - Budget
             - Domestic gross, worldwide gross
             - Runtime
