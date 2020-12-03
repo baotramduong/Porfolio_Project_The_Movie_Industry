@@ -69,7 +69,7 @@ II.2.1 Data Sources:
       
             - www.the-numbers.com
 
-II.2.2  Data reading
+II.2.2  Data scraping
 
 II.2.3  Data cleaning
 
