@@ -6,9 +6,9 @@ There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
 
-            - Part 1: Data cleaning from provided data
+            - Part 1: Data cleaning & preparation from provided data
             
-            - Part 2: Data cleaning from scraped data
+            - Part 2: Data cleaning & preparation from scraped data
             
             - Part 3: Data analysis and visualization + actionable insights + conclusion & future works
             
