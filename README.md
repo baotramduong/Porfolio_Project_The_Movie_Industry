@@ -46,17 +46,17 @@ I.2.4  Data cleaning
             - Domestic gross, worldwide gross
             - Studio
             
-            I.2.4.b Populatiry / Words of mouth: 
+            I.2.4.b Movie Basics:
+            
+            - Runtime
+            - Genre
+            
+            I.2.4.c Populatiry / Words of mouth: 
 
             - Vote count
             - Vote average
             - Popularity       
             - Language
-            
-            I.2.4.c Movie Basics:
-            
-            - Runtime
-            - Genre
            
             I.2.4.d Production Crew: 
 
@@ -66,9 +66,10 @@ I.2.4  Data cleaning
 I.2.5  Joining the dataframes
 
              - Production budget & gross: movie_budgets_gross_df
-             - Movie basics: release date, genre, runtime, language:
-             - Popularity/ Words of mouth: vote count, vote average, popularity score
-             - Production crew: director, writer
+             - Movie basics: release date, genre, runtime: title_basics_df
+             - Popularity/ Words of mouth: vote count, vote average, popularity score: title_basics_rating_df
+             - Production crew: director, writer: names_titles_df
+             - All together: merged_df_1
 
 II.2.6 Quick data analysis
 
