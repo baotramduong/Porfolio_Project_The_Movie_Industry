@@ -25,7 +25,7 @@ There are 5 deliverables for this project:
 
 1.1  Business Statement
 
-### **2.  PART I: Data Preparation From Provided Data**
+### **2.  Data Preparation From Provided Data**
 
 I.2.1 Data Sources:
       
@@ -60,7 +60,7 @@ I.2.4  Joining the dataframes
 
 1.1  Business Statement
 
-### **2.  PART I: Data Preparation From Provided Data**
+### **2.  Data Preparation From Scraped Data**
 
 II.2.1 Data Sources:
       
