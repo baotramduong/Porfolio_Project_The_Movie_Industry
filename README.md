@@ -44,19 +44,19 @@ I.2.4  Data cleaning
 
             - Budget
             - Domestic gross, worldwide gross
+            - Studio
             
             I.2.4.b Populatiry / Words of mouth: 
 
             - Vote count
             - Vote average
             - Popularity       
+            - Language
             
             I.2.4.c Movie Basics:
             
             - Runtime
             - Genre
-            - Language
-            - Studio
            
             I.2.4.d Production Crew: 
 
