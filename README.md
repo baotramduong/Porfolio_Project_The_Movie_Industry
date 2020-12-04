@@ -153,11 +153,11 @@ II.2.6 Quick data analysis
 
 ### **3.  Conclusion and Future Work**
 
-**3.1  Summary of Findings**
+##  Summary of Key Findings
 
-**3.2  Actionable Insights**
+##  Summary of Actionable Insights
 
-**3.3  Future Works**
+##  Future Works
 
 There are other factors such as star quality, quality of script, special effects, marketing campaign, popularity of the film preceding it (if it's a sequel), competition or lack thereof, competition from non-movie events such as weather or news and sport events that we can do analysis on. 
 
@@ -165,6 +165,3 @@ Director and writer are also interesting to look at.
 
 Moreover, movie researchers has also found that critics have a dual role, where they both influence consumers' movie choice and predict box office performance by reflecting moviegoers' tastes. Unfortunately we won't be investigating these features as they will take up extra time and are all outside the scope of this project.
 
-## Key Findings
-
-## Actionable Insights
