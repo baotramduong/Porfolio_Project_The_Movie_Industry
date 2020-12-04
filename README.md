@@ -5,22 +5,22 @@ In this report, I perform an analysis on a dataset of 625 movies (2010-2018) and
 
 ## Business Statement
 
-1. Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
-2. What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
-3. When is the best time of year to release a movie, in term of month and day of the week?
-4. Can popularity or words of mouth, in term of rating and number of votes, affect the performance of a movie?
-5. Is runtime a factor in determining the success of a movie?
+**Q1.** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
+**Q2.** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
+**Q3.** When is the best time of year to release a movie, in term of month and day of the week?
+**Q4.** Can popularity or words of mouth, in term of rating and number of votes, affect the performance of a movie?
+**Q5.** Is runtime a factor in determining the success of a movie?
 
 ## The Deliverables
 There are 5 deliverables for this project:
 
 1. A well documented Jupyter Notebook containing any code and comments explaining it.
 
-            - Part 1: Data cleaning & preparation from provided data
+            - Part I: Data cleaning & preparation from provided data
             
-            - Part 2: Data cleaning & preparation from scraped data
+            - Part II: Data cleaning & preparation from scraped data
             
-            - Part 3: Data analysis and visualization + actionable insights + conclusion & future works
+            - Part III: Data analysis and visualization + actionable insights + conclusion & future works
             
 2. An organized README.md file that describes the contents of the repository.
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders.
