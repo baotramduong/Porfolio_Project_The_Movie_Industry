@@ -1,7 +1,7 @@
 # Creating the Next Blockbuster Movie Using Data Science
 This project was completed as part of Flatiron School's Data Science Bootcamp (November 2020)
 
-In this report, I perform an analysis on a dataset of 600 movies and their features such as production budget, box office gross, release date, studio, popularity and words of mouth. From this, my goal is to determine what factors contribute to a movie being successful and help my client at Microsoft create the next blockbuster movie. 
+In this report, I perform an analysis on a dataset of 625 movies and their features such as production budget, box office gross, release date, studio, popularity and words of mouth. From this, my goal is to determine what factors contribute to a movie being successful and help my client at Microsoft create the next blockbuster movie. 
 
 ## The Deliverables
 There are 5 deliverables for this project:
@@ -139,6 +139,12 @@ II.2.6 Quick data analysis
 3.2  Actionable Insights
 
 3.3  Future Works
+
+There are other factors such as star quality, quality of script, special effects, marketing campaign, popularity of the film preceding it (if it's a sequel), competition or lack thereof, competition from non-movie events such as weather or news and sport events that we can do analysis on. 
+
+Director and writer are also interesting to look at.
+
+Moreover, movie researchers has also found that critics have a dual role, where they both influence consumers' movie choice and predict box office performance by reflecting moviegoers' tastes. Unfortunately we won't be investigating these features as they will take up extra time and are all outside the scope of this project.
 
 ## Key Findings
 
