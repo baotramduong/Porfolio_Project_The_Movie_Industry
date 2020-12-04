@@ -6,9 +6,13 @@ In this report, I perform an analysis on a dataset of 625 movies (2010-2018) and
 ## Business Statement
 
 **Q1.** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
+
 **Q2.** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
+
 **Q3.** When is the best time of year to release a movie, in term of month and day of the week?
+
 **Q4.** Can popularity or words of mouth, in term of rating and number of votes, affect the performance of a movie?
+
 **Q5.** Is runtime a factor in determining the success of a movie?
 
 ## The Deliverables
