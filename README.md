@@ -119,25 +119,36 @@ II.2.6 Quick data analysis
 
 ## PART III: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
-### **1. Data Visualization**
+### **1.  Introduction**
 
-1.1  Budget vs. Gross
+1.1  Business Statement
 
-1.2  Genre vs. Gross
+### **2. Data Visualization**
 
-1.3  Others: Source, Creative Type, Production Method vs. Gross
+**Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
 
-1.4  Runtime vs. Gross
+            2.1  Budget vs. Profit
 
-1.5  Release time vs. Gross
+**Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
-1.6 Others: Director, Writer, Critic, Publisher vs. Gross
+            2.2  Genre vs. Profit
 
-1.7  Popularity / Words of Mouth: 
+            2.3  Others: Source, Creative Type, Production Method vs. Profit
 
-            - Rating & number of votes vs. Gross
-            - Critic review vs. Gross
+**Question 3:** When is the best time of year to release a movie, in term of month and day of the week?
 
+            2.4  Release time vs. Profit
+
+**Question 4:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
+
+            2.5 Rating & number of votes vs. Profit
+            
+            2.6 Studio vs. Profit
+            
+**Question 5:** Is runtime a factor in determining the success of a movie?
+
+            2.7  Runtime vs. Profit
+            
 ### **2. Actionable Insights**
 
 ### **3.  Conclusion and Future Work**
