@@ -134,11 +134,11 @@ II.2.6 Quick data analysis
 
 ### **3.  Conclusion and Future Work**
 
-3.1  Summary of Findings
+**3.1  Summary of Findings**
 
-3.2  Actionable Insights
+**3.2  Actionable Insights**
 
-3.3  Future Works
+**3.3  Future Works**
 
 There are other factors such as star quality, quality of script, special effects, marketing campaign, popularity of the film preceding it (if it's a sequel), competition or lack thereof, competition from non-movie events such as weather or news and sport events that we can do analysis on. 
 
