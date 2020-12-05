@@ -157,16 +157,20 @@ II.2.6 Quick data analysis
                  - General trend
                  - Top 100 performer trend
                  
-            2.6 Studio vs. Profit
-                  - General trend
-                 - Top 100 performer trend
-                 
 **Question 5:** Is runtime a factor in determining the success of a movie?
 
-            2.7  Runtime vs. Profit
+            2.6  Runtime vs. Profit
                  - General trend
                  - Top 100 performer trend
-                 
+
+**Extra*:** What is the best studio to work with?
+
+            2.7 Studio vs. Profit
+                 - General trend
+                 - Top 100 performer trend
+
+**Extra*:* What is the most popular language?
+
 ### **3. Actionable Insights**
 
 ### **4.  Conclusion and Future Work**
