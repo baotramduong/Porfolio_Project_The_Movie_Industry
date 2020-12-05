@@ -132,27 +132,41 @@ II.2.6 Quick data analysis
 **Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
 
             2.1  Budget vs. Profit
+                 - General trend
+                 - Top 100 performer trend
 
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
             2.2  Genre vs. Profit
-
+                 - General trend
+                 - Top 100 performer trend
+                 
             2.3  Others: Source, Creative Type, Production Method vs. Profit
-
+                 - General trend
+                 - Top 100 performer trend
+                 
 **Question 3:** When is the best time of year to release a movie, in term of month and day of the week?
 
             2.4  Release time vs. Profit
-
+                 - General trend
+                 - Top 100 performer trend
+                 
 **Question 4:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
 
             2.5 Rating & number of votes vs. Profit
-            
+                 - General trend
+                 - Top 100 performer trend
+                 
             2.6 Studio vs. Profit
-            
+                  - General trend
+                 - Top 100 performer trend
+                 
 **Question 5:** Is runtime a factor in determining the success of a movie?
 
             2.7  Runtime vs. Profit
-            
+                 - General trend
+                 - Top 100 performer trend
+                 
 ### **2. Actionable Insights**
 
 ### **3.  Conclusion and Future Work**
