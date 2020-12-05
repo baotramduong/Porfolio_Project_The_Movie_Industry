@@ -167,9 +167,9 @@ II.2.6 Quick data analysis
                  - General trend
                  - Top 100 performer trend
                  
-### **2. Actionable Insights**
+### **3. Actionable Insights**
 
-### **3.  Conclusion and Future Work**
+### **4.  Conclusion and Future Work**
 
 ##  Summary of Key Findings
 
