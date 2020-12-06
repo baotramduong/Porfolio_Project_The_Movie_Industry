@@ -159,13 +159,13 @@ II.2.6 Quick data analysis
                  - General trend
                  - Top 100 performers trend
                  
-            2.7 Rating & number of votes vs. Profit vs. Genre
+            2.6.a Rating & number of votes vs. Profit vs. Genre
             
-            2.7 Rating & number of votes vs. Profit vs. Source
+            2.6.b Rating & number of votes vs. Profit vs. Source
             
-            2.7 Rating & number of votes vs. Profit vs. Creative Type
+            2.6.c Rating & number of votes vs. Profit vs. Creative Type
             
-            2.7 Rating & number of votes vs. Profit vs. Production Method
+            2.6.d Rating & number of votes vs. Profit vs. Production Method
                  
 ## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
@@ -177,10 +177,12 @@ II.2.6 Quick data analysis
 
 **Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
 
-            2.7  Release time vs. Profit
+            2.7.a  Release time vs. Profit
                  - General trend
                  - Top 100 performers trend
-                 
+            
+            2.7.b Number of movies released per month
+            
 **Question 5:** Is runtime a factor in determining the success of a movie?
 
             2.8  Runtime vs. Profit
