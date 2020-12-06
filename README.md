@@ -26,7 +26,7 @@ There are 5 deliverables for this project:
             
             - Part III.A: Data analysis and visualization + actionable insights + conclusion & future works
             
-                          Q1. Production budget vs. profit?
+                          Q1. Production budget vs. Profit
 
                           Q2. Movie contents: genre, source, creative type, production method vs. Profit
 
