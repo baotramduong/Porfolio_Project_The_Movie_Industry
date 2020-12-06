@@ -121,7 +121,7 @@ II.2.5  Joining the dataframes
 
 II.2.6 Quick data analysis
 
-## PART III: **Data Visualization, Actionable Insights, Conclusion & Future Works**
+## PART III.A: ** Data Visualization, Actionable Insights, Conclusion & Future Works**
 
 ### **1.  Introduction**
 
@@ -153,15 +153,31 @@ II.2.6 Quick data analysis
                  - General trend
                  - Top 100 performers trend
                  
-**Question 3:** When is the best time of year to release a movie, in term of month and day of the week?
+**Question 3:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
 
-            2.6  Release time vs. Profit
+            2.6 Rating & number of votes vs. Profit
                  - General trend
                  - Top 100 performers trend
                  
-**Question 4:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
+            2.7 Rating & number of votes vs. Profit vs. Genre
+            
+            2.7 Rating & number of votes vs. Profit vs. Source
+            
+            2.7 Rating & number of votes vs. Profit vs. Creative Type
+            
+            2.7 Rating & number of votes vs. Profit vs. Production Method
+                 
+## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
-            2.7 Rating & number of votes vs. Profit
+### **1.  Introduction**
+
+1.1  Business Statement
+
+### **2. Data Visualization**
+
+**Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
+
+            2.7  Release time vs. Profit
                  - General trend
                  - Top 100 performers trend
                  
