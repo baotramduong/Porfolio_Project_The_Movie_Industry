@@ -9,9 +9,9 @@ In this report, I perform an analysis on a dataset of 625 movies (2010-2018) and
 
 **Q2.** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
-**Q3.** When is the best time of year to release a movie?
+**Q3.** Can popularity or words of mouth, in term of rating and number of votes, affect the performance of a movie?
 
-**Q4.** Can popularity or words of mouth, in term of rating and number of votes, affect the performance of a movie?
+**Q4.** When is the best time of year to release a movie?
 
 **Q5.** Is runtime a factor in determining the success of a movie?
 
@@ -24,7 +24,19 @@ There are 5 deliverables for this project:
             
             - Part II: Data cleaning & preparation from scraped data
             
-            - Part III: Data analysis and visualization + actionable insights + conclusion & future works
+            - Part III.A: Data analysis and visualization + actionable insights + conclusion & future works
+            
+                          Q1. Production budget vs. profit?
+
+                          Q2. Movie contents: genre, source, creative type, production method vs. Profit
+
+                          Q3. Popularity or words of mouth, in term of rating and number of votes vs. Profit
+            
+            - Part III.B: Data analysis and visualization + actionable insights + conclusion & future works
+                           
+                          Q4. Release time vs. Profit
+                          
+                          Q5. Runtime vs. Profit
             
 2. An organized README.md file that describes the contents of the repository.
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders.
