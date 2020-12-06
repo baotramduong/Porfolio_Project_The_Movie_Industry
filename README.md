@@ -178,6 +178,8 @@ II.2.6 Quick data analysis
                  - Top 100 performers trend
 
 **Extra:** What is the most popular language?
+            
+            2.10 Language 
 
 ### **3. Actionable Insights**
 
