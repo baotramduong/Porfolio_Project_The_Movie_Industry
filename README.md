@@ -138,34 +138,42 @@ II.2.6 Quick data analysis
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
             2.2  Genre vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            
+                 - General distribution vs. Top 100 distribution
+                 - Top 100 performers vs. profit
+                 - Top 100 performers vs. budget
                  
             2.3  Source vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            
+                 - General distribution vs. Top 100 distribution
+                 - Top 100 performers vs. profit
+                 - Top 100 performers vs. budget
 
             2.4  Creative Type vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            
+                 - General distribution vs. Top 100 distribution
+                 - Top 100 performers vs. profit
+                 - Top 100 performers vs. budget
                  
             2.5  Production Method vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            
+                 - General distribution vs. Top 100 distribution
+                 - Top 100 performers vs. profit
+                 - Top 100 performers vs. budget
                  
 **Question 3:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
 
             2.6 Rating & number of votes vs. Profit
-                 - General trend
+                 
                  - Top 100 performers trend
                  
-            2.6.a Rating & number of votes vs. Profit vs. Genre
+            2.6.a Rating & number of votes vs. Genre
             
-            2.6.b Rating & number of votes vs. Profit vs. Source
+            2.6.b Rating & number of votes vs. Source
             
-            2.6.c Rating & number of votes vs. Profit vs. Creative Type
+            2.6.c Rating & number of votes vs. Creative Type
             
-            2.6.d Rating & number of votes vs. Profit vs. Production Method
+            2.6.d Rating & number of votes vs. Production Method
                  
 ## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
