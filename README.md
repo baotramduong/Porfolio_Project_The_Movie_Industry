@@ -26,17 +26,17 @@ There are 5 deliverables for this project:
             
             - Part III.A: Data analysis and visualization + actionable insights + conclusion & future works
             
-                          Q1. Production budget vs. Profit
+                   Q1. Production budget vs. Profit
 
-                          Q2. Movie contents: genre, source, creative type, production method vs. Profit
+                   Q2. Movie contents: genre, source, creative type, production method vs. Profit
 
-                          Q3. Popularity or words of mouth, in term of rating and number of votes vs. Profit
+                   Q3. Popularity or words of mouth, in term of rating and number of votes vs. Profit
             
             - Part III.B: Data analysis and visualization + actionable insights + conclusion & future works
                            
-                          Q4. Release time vs. Profit
+                   Q4. Release time vs. Profit
                           
-                          Q5. Runtime vs. Profit
+                   Q5. Runtime vs. Profit
             
 2. An organized README.md file that describes the contents of the repository.
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders.
