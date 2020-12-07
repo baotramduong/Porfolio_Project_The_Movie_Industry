@@ -147,12 +147,12 @@ II.2.5  Joining the dataframes
 
 ### **Methodology:**
 
-            1. Using seaborn package and matplotlib to visualize data:
+            1. Using seaborn package and matplotlib to visualize data
             2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
             3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
             using distribution plot and/or bar plot and/or scatter plot and/or line plot.
             4. Do analysis on the mean average using box plot.
-            5. Do analysis each category using swarm plot.
+            5. Do analysis on each category using swarm plot.
             6. Compare all movies all at once using rel plot.
 
 **Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
@@ -223,12 +223,12 @@ II.2.5  Joining the dataframes
 
 ### **Methodology:**
 
-            1. Using seaborn package and matplotlib to visualize data:
+            1. Using seaborn package and matplotlib to visualize data
             2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
             3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
             using distribution plot and/or bar plot and/or scatter plot and/or line plot.
             4. Do analysis on the mean average using box plot.
-            5. Do analysis each category using swarm plot.
+            5. Do analysis on each category using swarm plot.
             6. Compare all movies all at once using rel plot.
             
 **Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
@@ -270,9 +270,9 @@ II.2.5  Joining the dataframes
 
 ##  Future Works
 
-There are other factors such as star quality, quality of script, special effects, marketing campaign, popularity of the film preceding it (if it's a sequel), competition or lack thereof, competition from non-movie events such as weather or news and sport events that we can do analysis on. 
+1. There are other factors such as star quality, quality of script, special effects, marketing campaign, popularity of the film preceding it (if it's a sequel), competition or lack thereof, competition from non-movie events such as weather or news and sport events that we can do analysis on. 
 
-Director and writer are also interesting to look at.
+2. Director and writer are also interesting to look at.
 
-Moreover, movie researchers has also found that critics have a dual role, where they both influence consumers' movie choice and predict box office performance by reflecting moviegoers' tastes. Unfortunately we won't be investigating these features as they will take up extra time and are all outside the scope of this project.
+3. Moreover, movie researchers has also found that critics have a dual role, where they both influence consumers' movie choice and predict box office performance by reflecting moviegoers' tastes. Unfortunately we won't be investigating these features as they will take up extra time and are all outside the scope of this project.
 
