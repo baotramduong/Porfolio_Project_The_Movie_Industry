@@ -83,11 +83,6 @@ I.2.4  Data cleaning
             - Vote average
             - Popularity       
             - Language
-           
-            I.2.4.d Production Crew: 
-
-            - Director
-            - Writer
 
 I.2.5  Joining the dataframes
 
