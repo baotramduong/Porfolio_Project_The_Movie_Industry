@@ -92,8 +92,6 @@ I.2.5  Joining the dataframes
              - Production crew: director, writer: names_titles_df
              - All together: merged_df_1
 
-II.2.6 Quick data analysis
-
 ## PART II: Data Cleaning and Preparation From Scraped Data
 
 ### **1.  Introduction**
@@ -125,8 +123,6 @@ II.2.5  Joining the dataframes
 
             - Scraped dataset: merged_df_2
             - full_df = merged_df_1 + merged_df_2
-
-II.2.6 Quick data analysis
 
 ## PART III.A: ** Data Visualization, Actionable Insights, Conclusion & Future Works**
 
