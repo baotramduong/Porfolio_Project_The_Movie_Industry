@@ -166,17 +166,10 @@ II.2.5  Joining the dataframes
                  
 **Question 3:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
 
-            2.6 Rating & number of votes vs. Profit
+            2.6 Popularity vs. Profit
+            
+            2.7 Rating & number of votes vs. Profit
                  
-                 - Top 100 performers trend
-                 
-            2.6.a Rating & number of votes vs. Genre
-            
-            2.6.b Rating & number of votes vs. Source
-            
-            2.6.c Rating & number of votes vs. Creative Type
-            
-            2.6.d Rating & number of votes vs. Production Method
                  
 ## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
@@ -188,27 +181,27 @@ II.2.5  Joining the dataframes
 
 **Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
 
-            2.7.a  Release time vs. Profit
+            2.8.a  Release time vs. Profit
                  - General trend
                  - Top 100 performers trend
             
-            2.7.b Number of movies released per month
+            2.8.b Number of movies released per month
             
 **Question 5:** Is runtime a factor in determining the success of a movie?
 
-            2.8  Runtime vs. Profit
+            2.9  Runtime vs. Profit
                  - General trend
                  - Top 100 performers trend
                  
 **Extra:** What is the best studio to work with?
 
-            2.9 Studio vs. Profit
+            2.10 Studio vs. Profit
                  - General trend
                  - Top 100 performers trend
 
 **Extra:** What is the most popular language?
             
-            2.10 Language 
+            2.11 Language 
 
 ### **3. Actionable Insights**
 
