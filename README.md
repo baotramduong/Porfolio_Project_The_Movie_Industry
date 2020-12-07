@@ -134,42 +134,61 @@ II.2.5  Joining the dataframes
 
 **Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
 
-            2.1  Budget vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            2.1  Budget vs. Worldwide Profit
+            
+                 2.1a. Budget
+                 
+                       2.1ai. General trend
+                       2.1aii. Top 100 performers trend
+                       
+                 2.1b. Profit
+                        
+                        2.1bi. Domestic Profit, International Profit, Worldwide Profit
+                        2.1bii. Top 100 performers with respect to Worldwide Profit
 
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
-            2.2  Genre vs. Profit
+            2.2  Genre vs. Worldwide Profit
             
-                 - General distribution vs. Top 100 distribution
-                 - Top 100 performers vs. profit
-                 - Top 100 performers vs. budget
+                 2.2a. General distribution vs. Top 100 distribution
+                 2.2b. Top 100 performers vs. Worldwide Profit
+                 2.2c. Top 100 performers with respect to Production Budget and Worldwide Profit
                  
-            2.3  Source vs. Profit
+            2.3  Source vs. Worldwide Profit
             
-                 - General distribution vs. Top 100 distribution
-                 - Top 100 performers vs. profit
-                 - Top 100 performers vs. budget
+                 2.3a. General distribution vs. Top 100 distribution
+                 2.3b. Top 100 performers vs. Worldwide Profit
+                 2.3c. Top 100 performers with respect to Production Budget and Worldwide Profit
 
-            2.4  Creative Type vs. Profit
+            2.4  Creative Type vs. Worldwide Profit
             
-                 - General distribution vs. Top 100 distribution
-                 - Top 100 performers vs. profit
-                 - Top 100 performers vs. budget
+                 2.4a. General distribution vs. Top 100 distribution
+                 2.4b. Top 100 performers vs. Worldwide Profit
+                 2.4c. Top 100 performers with respect to Production Budget and Worldwide Profit
                  
-            2.5  Production Method vs. Profit
+            2.5  Production Method vs. Worldwide Profit
             
-                 - General distribution vs. Top 100 distribution
-                 - Top 100 performers vs. profit
-                 - Top 100 performers vs. budget
+                 2.5a. General distribution vs. Top 100 distribution
+                 2.5b. Top 100 performers vs. Worldwide Profit
+                 2.5c Top 100 performers with respect to Production Budget and Worldwide Profit
                  
 **Question 3:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
 
-            2.6 Popularity vs. Profit
+            2.6. Popularity vs. Worldwide Profit
+                
+                2.6a. General distribution vs. Top 100 distribution
+                2.6b. Genres with respect to Popularity & Worldwide Profit
+                2.6c. Sources with respect to Popularity & Worldwide Profit
+                2.6d. Creative Types with respect to Popularity & Worldwide Profit
+                2.6e. Production Method with respect to Popularity & Worldwide Profit
             
-            2.7 Rating & number of votes vs. Profit
-                 
+            2.7. Rating & number of votes vs. Worldwide Profit
+                
+                2.7a. General distribution vs. Top 100 distribution
+                2.7b. Genres with respect to Average Rating & Worldwide Profit
+                2.7c. Sources with respect to Average Rating & Worldwide Profit
+                2.7d. Creative Types with respect to Average Rating & Worldwide Profit
+                2.7e. Production Method with respect to Average Rating & Worldwide Profit                            
                  
 ## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
@@ -181,23 +200,28 @@ II.2.5  Joining the dataframes
 
 **Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
 
-            2.8.a  Release time vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            2.8.  Release time vs. Worldwide Profit
             
-            2.8.b Number of movies released per month
+                 2.8a. General trend                
+                 2.8b. Top 100 performers trend
+            
+            2.8c. Number of movies released per month
             
 **Question 5:** Is runtime a factor in determining the success of a movie?
 
-            2.9  Runtime vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            2.9  Runtime vs. Worldwide Profit
+            
+                 2.9a. General trend
+                 2.9b. Top 100 performers trend     
+                 2.9c. Top 100 performers with respect Worldwide Profit
                  
 **Extra:** What is the best studio to work with?
 
-            2.10 Studio vs. Profit
-                 - General trend
-                 - Top 100 performers trend
+            2.10 Studio vs. Worldwide Profit
+            
+                 2.10a. General trend
+                 2.10b. Top 100 performers trend
+                 2.10c. Top 100 performers with respect to Production Budget & Worldwide Profit
 
 **Extra:** What is the most popular language?
             
