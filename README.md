@@ -56,7 +56,8 @@ There are 5 deliverables for this project:
 I.2.1 Methodology
 
              1. Get data from provided data
-             3. Gather all attributes to answer questions: budget, domestic gross, international gross, worldwide gross, vote count, vote average, popularity , release time, runtime, studio, language
+             3. Gather all attributes to answer questions: budget, domestic gross, international gross, worldwide gross, 
+             vote count, vote average, popularity , release time, runtime, studio, language
              4. Deal with missing and null values
              5. Deal with duplicates
              6. Correct datatypes if needed
@@ -148,7 +149,8 @@ II.2.5  Joining the dataframes
 
             1. Using seaborn package and matplotlib to visualize data:
             2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
-            3. Get distribution of Top 100 movies to see what is done differently to reach higher success using distribution plot and/or bar plot and/or scatter plot and/or line plot.
+            3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
+            using distribution plot and/or bar plot and/or scatter plot and/or line plot.
             4. Do analysis on the mean average using box plot.
             5. Do analysis each category using swarm plot.
             6. Compare all movies all at once using rel plot.
@@ -223,7 +225,8 @@ II.2.5  Joining the dataframes
 
             1. Using seaborn package and matplotlib to visualize data:
             2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
-            3. Get distribution of Top 100 movies to see what is done differently to reach higher success using distribution plot and/or bar plot and/or scatter plot and/or line plot.
+            3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
+            using distribution plot and/or bar plot and/or scatter plot and/or line plot.
             4. Do analysis on the mean average using box plot.
             5. Do analysis each category using swarm plot.
             6. Compare all movies all at once using rel plot.
