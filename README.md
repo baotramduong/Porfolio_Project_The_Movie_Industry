@@ -132,6 +132,15 @@ II.2.5  Joining the dataframes
 
 ### **2. Data Visualization**
 
+### **Methodology:**
+
+            1. Using seaborn package and matplotlib to visualize data:
+            2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
+            3. Get distribution of Top 100 movies to see what is done differently to reach higher success using distribution plot and/or bar plot and/or scatter plot and/or line plot.
+            4. Do analysis on the mean average using box plot.
+            5. Do analysis each category using swarm plot.
+            6. Compare all movies all at once using rel plot.
+
 **Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
 
             2.1  Budget vs. Worldwide Profit
@@ -198,6 +207,15 @@ II.2.5  Joining the dataframes
 
 ### **2. Data Visualization**
 
+### **Methodology:**
+
+            1. Using seaborn package and matplotlib to visualize data:
+            2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
+            3. Get distribution of Top 100 movies to see what is done differently to reach higher success using distribution plot and/or bar plot and/or scatter plot and/or line plot.
+            4. Do analysis on the mean average using box plot.
+            5. Do analysis each category using swarm plot.
+            6. Compare all movies all at once using rel plot.
+            
 **Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
 
             2.8.  Release time vs. Worldwide Profit
