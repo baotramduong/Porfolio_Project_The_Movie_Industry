@@ -63,8 +63,9 @@ https://btramduong0810.github.io/
 I.2.1 Methodology
 
              1. Get data from provided data
-             3. Gather all attributes to answer questions: budget, domestic gross, international gross, worldwide gross, 
-             vote count, vote average, popularity , release time, runtime, studio, language
+             3. Gather all attributes to answer questions: budget, domestic gross, 
+             international gross, worldwide gross, vote count, vote average, 
+             popularity , release time, runtime, studio, language
              4. Deal with missing and null values
              5. Deal with duplicates
              6. Correct datatypes if needed
@@ -102,7 +103,8 @@ I.2.5  Joining the dataframes
 
              - Production budget & gross: movie_budgets_gross_df
              - Movie basics: release date, genre, runtime: title_basics_df
-             - Popularity/ Words of mouth: vote count, vote average, popularity score: title_basics_rating_df
+             - Popularity/ Words of mouth: vote count, vote average, 
+             popularity score: title_basics_rating_df
              - Production crew: director, writer: names_titles_df
              - All together: merged_df_1
 
@@ -117,7 +119,8 @@ I.2.5  Joining the dataframes
 II.2.1 Methodology
 
              1. Scrape additional data from www.the-numbers.com
-             2. Gather all attributes to answer questions: genre, source, creative type, production method
+             2. Gather all attributes to answer questions: genre, source, 
+             creative type, production method
              3. Deal with missing and null values
              4. Deal with duplicates
              5. Correct datatypes if needed
@@ -155,7 +158,8 @@ II.2.5  Joining the dataframes
 ### **Methodology:**
 
             1. Using seaborn package and matplotlib to visualize data
-            2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
+            2. Get the general trend/ distribution of all movies 
+            using distribution plot and/or bar plot.
             3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
             using distribution plot and/or bar plot and/or scatter plot and/or line plot.
             4. Do analysis on the mean average using box plot.
