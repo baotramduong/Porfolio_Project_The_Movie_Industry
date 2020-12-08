@@ -39,8 +39,13 @@ There are 5 deliverables for this project:
                    Q5. Runtime vs. Profit
             
 2. An organized README.md file that describes the contents of the repository.
+
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders.
+
+            Link: https://docs.google.com/presentation/d/1z4NpXFo0wAAY2fHN5nDiM_VXM7UZJ-0R4Mn7mjt8WzQ/edit?usp=sharing
+
 4. A Blog Post which can be found at: https://btramduong0810.github.io/
+
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
 # **Notebook Table of Contents**
