@@ -180,6 +180,12 @@ II.2.5  Joining the dataframes
                         2.1bi. Domestic Profit, International Profit, Worldwide Profit
                         2.1bii. Top 100 performers with respect to Worldwide Profit
 
+![alt text](../master/zippedData/budget_vs_profit_lmplot.png?raw=true)
+
+![alt text](../master/zippedData/budget_vs_profit_scatterplot.png?raw=true)
+
+![alt text](../master/zippedData/budget_range_vs_100_profit_boxplot.png?raw=true)
+
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
             2.2  Genre vs. Worldwide Profit
@@ -187,25 +193,41 @@ II.2.5  Joining the dataframes
                  2.2a. General distribution vs. Top 100 distribution
                  2.2b. Top 100 performers vs. Worldwide Profit
                  2.2c. Top 100 performers with respect to Production Budget and Worldwide Profit
-                 
+
+![alt text](../master/zippedData/genre_vs_100_profit_boxplot.png?raw=true)
+
+![alt text](../master/zippedData/genre_budget_profit_relplot.png?raw=true)
+
             2.3  Source vs. Worldwide Profit
             
                  2.3a. General distribution vs. Top 100 distribution
                  2.3b. Top 100 performers vs. Worldwide Profit
                  2.3c. Top 100 performers with respect to Production Budget and Worldwide Profit
 
+![alt text](../master/zippedData/soure_vs_100_profit_boxplot.png?raw=true)
+
+![alt text](../master/zippedData/source_budget_profit_scatterplot.png?raw=true)
+
             2.4  Creative Type vs. Worldwide Profit
             
                  2.4a. General distribution vs. Top 100 distribution
                  2.4b. Top 100 performers vs. Worldwide Profit
                  2.4c. Top 100 performers with respect to Production Budget and Worldwide Profit
-                 
+
+![alt text](../master/zippedData/creative_type_vs_100_profit_boxplot.png?raw=true)
+
+![alt text](../master/zippedData/creative_type_budget_profit_relplot.png?raw=true)
+
             2.5  Production Method vs. Worldwide Profit
             
                  2.5a. General distribution vs. Top 100 distribution
                  2.5b. Top 100 performers vs. Worldwide Profit
                  2.5c Top 100 performers with respect to Production Budget and Worldwide Profit
-                 
+
+![alt text](../master/zippedData/production_method_vs_100_profit_boxplot.png?raw=true)
+
+![alt text](../master/zippedData/production_method_budget_profit_relplot.png?raw=true)
+
 **Question 3:** Can popularity or words of mouth, in term of rating and number of votes, and the popularity of a studio affect the performance of a movie?
 
             2.6. Popularity vs. Worldwide Profit
