@@ -24,7 +24,7 @@ There are 5 deliverables for this project:
             
             - Part II: Data cleaning & preparation from scraped data
             
-            - Part III.A: Data analysis and visualization + actionable insights + conclusion & future works
+            - Part III.A: Data analysis and visualization Q1 - Q3
             
                    Q1. Production budget vs. Profit
 
@@ -32,7 +32,8 @@ There are 5 deliverables for this project:
 
                    Q3. Popularity or words of mouth, in term of rating and number of votes vs. Profit
             
-            - Part III.B: Data analysis and visualization + actionable insights + conclusion & future works
+            - Part III.B: Data analysis and visualization Q4 - Q5 
+            + actionable insights + conclusion & future works
                            
                    Q4. Release time vs. Profit
                           
@@ -157,7 +158,7 @@ II.2.5  Joining the dataframes
             - Scraped dataset: merged_df_2
             - full_df = merged_df_1 + merged_df_2
 
-## PART III.A: ** Data Visualization, Actionable Insights, Conclusion & Future Works**
+## PART III.A: Data Visualization, Actionable Insights, Conclusion & Future Works
 
 ### **1.  Introduction**
 
