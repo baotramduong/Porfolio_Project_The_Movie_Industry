@@ -184,7 +184,9 @@ II.2.5  Joining the dataframes
                  
                        2.1ai. General trend
                        2.1aii. Top 100 performers trend
-                       
+
+![alt text](../master/zippedData/budget_distribution_distplot.png?raw=true)
+
                  2.1b. Profit
                         
                         2.1bi. Domestic Profit, International Profit, Worldwide Profit
