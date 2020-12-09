@@ -9,11 +9,11 @@ In this report, I perform an analysis on a dataset of 625 movies (2010-2018) and
 
 **Q2.** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
-**Q3.** Can popularity or words of mouth, in term of rating and number of votes, affect the performance of a movie?
+**Q3.** Is there a correlation between popularity and positive words of mounth (average rating) and profit? How do they affect the performance of a movie?
 
 **Q4.** When is the best time of year to release a movie?
 
-**Q5.** Is runtime a factor in determining the success of a movie?
+**Q5.** Is there a correlation between runtime and profit? What is the best runtime?
 
 ## The Deliverables
 There are 5 deliverables for this project:
@@ -352,6 +352,94 @@ II.2.5  Joining the dataframes
 ### **4.  Conclusion and Future Work**
 
 ##  Summary of Key Findings
+
+Question 1:
+
+Budget vs Profit: p = 0.358
+Production budget is positively correlated with worldwide profit .
+The average production budget in general is 68086486.48648648 dollars.
+The average production budget in top 100 performers is 150670000.0 dollars
+
+Profit:
+The average domestical profit is 31620762.923688393
+The average international profit is 79357620.96979332
+The average worldwide_profit is 179064870.3799682
+
+Conclusion: $150M and up
+
+Question 2:
+
+Genre
+The average worldwide profit for Action genre is $691M dollars.
+The average worldwide profit for Adventure genre is $591M dollars.
+The average worldwide profit for Thriller/Suspense genre is $587M dollars.
+The average worldwide for Musical genre is $503M dollars.
+Decision: Action and Adventure
+
+Source
+The average worldwide profit for Based on Comic/Graphic Novel source is $682M dollars.
+The average worldwide profit for Based on Fiction Book/Short Story source is $610M dollars.
+The average worldwide profit for Original Screenplay source is $591M dollars.
+Decision: Based on Comic Graphic/ Novel
+
+Creative Type
+The average worldwide profit for Super Hero creative type is $683M dollar.
+The average worldwide profit for Based on Science Fiction creative type is $595M dollars.
+The average worldwide profit for Contemporary Fiction creative type is $705M dollars.
+Decision: To be decided between Super Hero vs. Contemporary Fiction
+
+Production Method
+The average worldwide profit for Animation/Live Action production method is $692M dollar.
+The average worldwide profit for Live Action production method is $606M dollars.
+The average worldwide profit for Digital Animation production method is $606M dollars.
+Decision: Animation/ Live Action
+
+Question 3:
+Popularity: p = 0.274
+Popularity is positively correlated with worldwide profit.
+Action & Adventure is the most popular genre.
+Decision: Action & Adventure
+
+Based on Comic Graphic/ Novel is the most popular source.
+Decision: Based on Comic Graphic/ Novel
+
+Super Hero is the most popular creative type.
+Decision: Super Hero is picked over Contemporary Fiction
+
+Animation/Live Action is the most popular production method.
+Decision: Animation/Live Action
+
+Average Rating: p = 0.089
+Rating is positively correlated with worldwide profit but not strongly.
+
+Thriller/Suspense is the highest rated genre.
+Adventure and Action is the next highest rated genres. 
+Decision: worldwide profit demands Adventure & Action.
+
+Original Screen Play is the highest rated source.
+Based on Comic Graphic/ Novel is the second highest rated source.
+Decision: worldwide profit is high for both categories == combination of both.
+
+Science Fiction is the highest rated creative type.
+Super Hero is second highest rated creative type.
+Decision: worldwide profit is high for both categories == combination of both.
+
+Question 4: 
+Decision: June
+
+Question 5: p = 0.058
+Runtime is positively correlated with worldwide profit but not strongly.
+The average runtime in general is 108 minutes
+The average runtime in top 100 performers is 118 minutes
+Decision: 120 mins and up
+
+Extra:
+BV is the highest grossing studios
+Decision: BV
+
+Extra:
+English is the most popular language
+Decision: English
 
 ##  Summary of Actionable Insights
 
