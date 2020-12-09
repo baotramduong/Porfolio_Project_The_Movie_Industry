@@ -358,9 +358,14 @@ II.2.5  Joining the dataframes
 
             Budget vs Profit: 
             - p = 0.358
-            - Production budget is positively correlated with worldwide profit .
+            - Production budget is positively correlated with worldwide profit.
+            
             - The average production budget in general is $68M dollars.
-            - The average production budget in top 100 performers is $151M dollars
+            - The average worldwide profit in general is $179M dollars.
+            
+            - The average production budget in top 100 performers is $151M dollars.
+            - The average worldwide profit of the Top 100 performers is $624M dollars.
+            
             Decision: $150M and up
 
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
