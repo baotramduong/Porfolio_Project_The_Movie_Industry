@@ -296,7 +296,11 @@ II.2.5  Joining the dataframes
                  2.8b. Top 100 performers trend
             
             2.8c. Number of movies released per month
-            
+
+![alt text](../master/zippedData/release_month_vs_profit_lineplot.png?raw=true)
+
+![alt text](../master/zippedData/release_month_vs_100_profit_boxplot.png?raw=true)
+
 **Question 5:** Is runtime a factor in determining the success of a movie?
 
             2.9  Runtime vs. Worldwide Profit
@@ -304,7 +308,13 @@ II.2.5  Joining the dataframes
                  2.9a. General trend
                  2.9b. Top 100 performers trend     
                  2.9c. Top 100 performers with respect Worldwide Profit
-                 
+
+![alt text](../master/zippedData/runtime_vs_profit_lmplot.png?raw=true)
+
+![alt text](../master/zippedData/runtime_distribution_distplot.png?raw=true)
+
+![alt text](../master/zippedData/runtime_vs_profit_scatterplot.png?raw=true)
+
 **Extra:** What is the best studio to work with?
 
             2.10 Studio vs. Worldwide Profit
@@ -313,9 +323,15 @@ II.2.5  Joining the dataframes
                  2.10b. Top 100 performers trend
                  2.10c. Top 100 performers with respect to Production Budget & Worldwide Profit
 
+![alt text](../master/zippedData/studio_vs_100_profit_boxplot.png?raw=true)
+
+![alt text](../master/zippedData/studio_budget_profit_relplot.png?raw=true)
+
 **Extra:** What is the most popular language?
             
             2.11 Language 
+
+![alt text](../master/zippedData/language_distribution_barplot.png?raw=true)
 
 ### **3. Actionable Insights**
 
