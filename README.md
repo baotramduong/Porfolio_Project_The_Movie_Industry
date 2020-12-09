@@ -423,6 +423,9 @@ II.2.5  Joining the dataframes
             - Science Fiction is the highest rated creative type.
             - Super Hero is second highest rated creative type.
             Decision: worldwide profit is high for both categories == combination of both.
+            
+            - Animation/Live Action is the higest rated productin method.
+            Decision: Animation/Live Action
 
 **Question 4:** When is the best time of year to release a movie?
 
