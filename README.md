@@ -215,7 +215,19 @@ II.2.5  Joining the dataframes
                 2.6c. Sources with respect to Popularity & Worldwide Profit
                 2.6d. Creative Types with respect to Popularity & Worldwide Profit
                 2.6e. Production Method with respect to Popularity & Worldwide Profit
-            
+
+![alt text](../master/zippedData/popularity_vs_profit_lmplot.png?raw=true)
+
+![alt text](../master/zippedData/popularity_vs_profit_scatterplot.png?raw=true)
+
+![alt text](../master/zippedData/genre_popularity_profit_relplot.png?raw=true)
+
+![alt text](../master/zippedData/source_vs_popularity_profit_relplot.png?raw=true)
+
+![alt text](../master/zippedData/creative_type_popularity_profit_relplot.png?raw=true)
+
+![alt text](../master/zippedData/production_method_popularity_profit_relplot.png?raw=true)
+
             2.7. Rating & number of votes vs. Worldwide Profit
                 
                 2.7a. General distribution vs. Top 100 distribution
@@ -223,7 +235,19 @@ II.2.5  Joining the dataframes
                 2.7c. Sources with respect to Average Rating & Worldwide Profit
                 2.7d. Creative Types with respect to Average Rating & Worldwide Profit
                 2.7e. Production Method with respect to Average Rating & Worldwide Profit                            
-                 
+
+![alt text](../master/zippedData/rating_vs_profit_lmplot.png?raw=true)
+
+![alt text](../master/zippedData/average_rating_vs_profit_scatterplot.png?raw=true)
+
+![alt text](../master/zippedData/genre_rating_profit_relplot.png?raw=true)
+
+![alt text](../master/zippedData/source_rating_profit_relplot.png?raw=true)
+
+![alt text](../master/zippedData/creative_type_rating_profit_relplot.png?raw=true)
+
+![alt text](../master/zippedData/production_method_rating_profit_relplot.png?raw=true)
+
 ## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
 
 ### **1.  Introduction**
