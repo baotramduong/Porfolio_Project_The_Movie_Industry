@@ -371,10 +371,10 @@ II.2.5  Joining the dataframes
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
             Genre
-            - The average worldwide profit for Action genre is $691M dollars.
+            - The average worldwide profit for Action genre is $692M dollars.
             - The average worldwide profit for Adventure genre is $591M dollars.
             - The average worldwide profit for Thriller/Suspense genre is $587M dollars.
-            - The average worldwide for Musical genre is $503M dollars.
+            - The average worldwide for Musical genre is $502M dollars.
             Decision: Action and Adventure
 
             Source
@@ -390,9 +390,9 @@ II.2.5  Joining the dataframes
             Decision: To be decided between Super Hero vs. Contemporary Fiction
 
             Production Method
-            The average worldwide profit for Animation/Live Action production method is $692M dollar.
-            The average worldwide profit for Live Action production method is $606M dollars.
-            The average worldwide profit for Digital Animation production method is $606M dollars.
+            - The average worldwide profit for Animation/Live Action production method is $692M dollar.
+            - The average worldwide profit for Live Action production method is $606M dollars.
+            - The average worldwide profit for Digital Animation production method is $606M dollars.
             Decision: Animation/ Live Action
 
 **Question 3:** Is there a correlation between popularity and positive words of mounth (average rating) and profit? How do they affect the performance of a movie?
@@ -446,8 +446,10 @@ II.2.5  Joining the dataframes
 
 **Extra:** What is the best production studio?
 
-            - BV is the highest grossing studios
-            - Decision: BV
+            - Universal Studio is the highest grossing studios: $825M
+            - BV is the second highest grossing studio: $723M
+            - 
+            - Decision: Universal Studio
 
 **Extra:** What is the most popular language?
 
