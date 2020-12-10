@@ -219,7 +219,7 @@ II.2.5  Joining the dataframes
 
 ![alt text](../master/zippedData/soure_vs_100_profit_boxplot.png?raw=true)
 
-![alt text](../master/zippedData/source_budget_profit_scatterplot.png?raw=true)
+![alt text](../master/zippedData/source_budget_profit_relplot.png?raw=true)
 
             2.4  Creative Type vs. Worldwide Profit
             
