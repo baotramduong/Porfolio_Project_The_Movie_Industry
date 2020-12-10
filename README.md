@@ -5,7 +5,7 @@ In this report, I perform an analysis on a dataset of 625 movies (2010-2018) and
 
 ## Business Statement
 
-**Q1.** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
+**Q1.** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production?
 
 **Q2.** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
@@ -354,7 +354,7 @@ II.2.5  Joining the dataframes
 
 ##  Summary of Key Findings
 
-**Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production to get the highest ROI?
+**Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production?
 
             Budget vs Profit: 
             - p = 0.358
@@ -393,7 +393,7 @@ II.2.5  Joining the dataframes
             - The average worldwide profit for Animation/Live Action production method is $692M dollar.
             - The average worldwide profit for Live Action production method is $606M dollars.
             - The average worldwide profit for Digital Animation production method is $606M dollars.
-            Decision: Animation/ Live Action
+            Decision: To be decided between Animation/ Live Action vs. Live Action
 
 **Question 3:** Is there a correlation between popularity and positive words of mounth (average rating) and profit? How do they affect the performance of a movie?
 
