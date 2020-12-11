@@ -314,6 +314,8 @@ II.2.5  Joining the dataframes
 
 ![alt text](../master/zippedData/release_month_vs_100_profit_boxplot.png?raw=true)
 
+![alt text](../master/zippedData/release_month_vs_100_profit_swarmplot.png?raw=true)
+
 ![alt text](../master/zippedData/num_movies_released_vs_profit_100_catplot.png?raw=true)
 
 **Question 5:** Is runtime a factor in determining the success of a movie?
