@@ -454,22 +454,30 @@ II.2.5  Joining the dataframes
 **Extra:** What is the best production studio?
 
             - Universal Studio is the highest grossing studios: $825M
-            - BV is the second highest grossing studio: $723M
-            - 
-            - Decision: Universal Studio
+            - Buena Vista aka Walt Disney Motion Pictures is the second highest grossing studio: $723M
 
 **Extra:** What is the most popular language?
 
             - English is the most popular language
-            - Decision: English
 
 ##  Summary of Actionable Insights
 
 ##  Future Works
 
-1. There are other factors such as star quality, quality of script, special effects, marketing campaign, popularity of the film preceding it (if it's a sequel), competition or lack thereof, competition from non-movie events such as weather or news and sport events that we can do analysis on. 
+Based on Quora and many other suggestions on the Internet:
 
-2. Director and writer are also interesting to look at.
+            1. Do analysis in term of ROI instead of simplified worldwide profit
+            2. Do further analysis between domestic market and international market
+            3. Motion Picture Association of America (MPAA) rating
+            4. Star quality: choosing a film where the main actor has received awards and recognition for acting is one of the best predictors of movie success.  
+            In a study published in the Journal of the Academy of Marketing Science, they found that when a movie is first released it is the "star power" of a popular actor that has the strongest impact at the box office (Staff, 2017). 
+            5. Quality of script
+            6. Special effects, sound design, music
+            7. Marketing campaign
+            8. Popularity of the film preceding it (if it's a sequel)
+            9. Directors 
+            10. Writers
+            11. Critics
+            12. Diversity: female directors, women of color, Black Lives Matter movement, etc.
 
-3. Moreover, movie researchers has also found that critics have a dual role, where they both influence consumers' movie choice and predict box office performance by reflecting moviegoers' tastes. Unfortunately we won't be investigating these features as they will take up extra time and are all outside the scope of this project.
 
