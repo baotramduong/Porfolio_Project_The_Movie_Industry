@@ -359,7 +359,7 @@ II.2.5  Joining the dataframes
 **Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production?
 
             Budget vs Profit: 
-            - p = 0.358
+            - r2 = 0.358
             - Production budget is positively correlated with worldwide profit.
             
             - The average production budget in general is $68M dollars.
@@ -400,8 +400,11 @@ II.2.5  Joining the dataframes
 **Question 3:** Is there a correlation between popularity and positive words of mounth (average rating) and profit? How do they affect the performance of a movie?
 
             Popularity: 
-            - p = 0.274
+            - r2 = 0.274
             - Popularity is positively correlated with worldwide profit.
+            - Top 100 movies score a 25 on average.
+            - Bottom 100 movies score a 13.2 on average.
+
             
             - Action & Adventure is the most popular genre.
             Decision: Action & Adventure
@@ -416,8 +419,10 @@ II.2.5  Joining the dataframes
             Decision: Animation/Live Action
 
             Average Rating: 
-            - p = 0.089
+            - r2 = 0.089
             - Rating is positively correlated with worldwide profit but not strongly.
+            - Top 100 movies score a 7.1 on average.
+            - Bottom 100 movies score a 6.1 on average.
 
             Thriller/Suspense is the highest rated genre.
             - Adventure and Action is the next highest rated genres. 
@@ -440,7 +445,7 @@ II.2.5  Joining the dataframes
 
 **Question 5:** Is there a correlation between runtime and profit? What is the best runtime?
 
-            - p = 0.058
+            - r2 = 0.058
             - Runtime is positively correlated with worldwide profit but not strongly.
             - The average runtime in general is 108 minutes
             - The average runtime in top 100 performers is 118 minutes
