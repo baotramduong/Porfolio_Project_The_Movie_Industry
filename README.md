@@ -57,7 +57,7 @@ https://docs.google.com/presentation/d/1z4NpXFo0wAAY2fHN5nDiM_VXM7UZJ-0R4Mn7mjt8
 
 4. A Blog Post which can be found at: 
 
-https://btramduong0810.github.io/
+https://baotramduong.github.io/
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
