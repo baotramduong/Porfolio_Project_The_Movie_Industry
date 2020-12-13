@@ -422,6 +422,7 @@ II.2.5  Joining the dataframes
             - r2 = 0.089
             - Rating is positively correlated with worldwide profit but not strongly.
             - Top 100 movies score a 7.1 on average.
+            - General movies score a 6.4 on average.
             - Bottom 100 movies score a 6.1 on average.
 
             Thriller/Suspense is the highest rated genre.
