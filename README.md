@@ -1,4 +1,4 @@
-# Creating the Next Blockbuster Movie Using Data Science
+# Data Science vs. The Movie Industry
 This project was completed as part of Flatiron School's Data Science Bootcamp (November 2020)
 
 Film entertainment is big business in the United States and it was estimated that the film entertainment business generated $35.3B in revenue in 2019 (Watson, 2020). The United States is among the biggest film industries in the world in general but also in terms of tickets sold per year, ranking behind China and India.
