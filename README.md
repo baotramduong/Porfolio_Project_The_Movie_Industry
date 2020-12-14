@@ -349,10 +349,6 @@ II.2.5  Joining the dataframes
 
 ![alt text](../master/zippedData/studio_budget_profit_relplot.png?raw=true)
 
-### **3. Actionable Insights**
-
-### **4.  Conclusion and Future Work**
-
 ##  Summary of Key Findings
 
 **Question 1:** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production?
