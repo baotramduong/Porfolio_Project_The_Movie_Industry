@@ -54,10 +54,11 @@ There are 5 deliverables for this project:
              - Part II: Jupyter notebook
              - Part III.A: Jupyter notebook
              - Part III.B: Jupyter notebook
+             - Presentation
 
-3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found at: 
+3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
 
-https://docs.google.com/presentation/d/1z4NpXFo0wAAY2fHN5nDiM_VXM7UZJ-0R4Mn7mjt8WzQ/edit?usp=sharing
+https://github.com/baotramduong/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/Presentation.pdf
 
 4. A Blog Post which can be found at: 
 
