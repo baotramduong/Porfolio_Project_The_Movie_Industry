@@ -349,12 +349,6 @@ II.2.5  Joining the dataframes
 
 ![alt text](../master/zippedData/studio_budget_profit_relplot.png?raw=true)
 
-**Extra:** What is the most popular language?
-            
-            2.11 Language 
-
-![alt text](../master/zippedData/language_distribution_barplot.png?raw=true)
-
 ### **3. Actionable Insights**
 
 ### **4.  Conclusion and Future Work**
