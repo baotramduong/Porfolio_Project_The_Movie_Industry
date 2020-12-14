@@ -1,7 +1,11 @@
 # Creating the Next Blockbuster Movie Using Data Science
 This project was completed as part of Flatiron School's Data Science Bootcamp (November 2020)
 
-In this report, I perform an analysis on a dataset of 625 movies (2010-2018) and their features such as production budget, box office gross, release date, studio, popularity and words of mouth to see which performed the best in term of ROI worldwide box office. From this, my goal is to determine what factors contribute to a movie being successful and help my client at Microsoft create the next blockbuster movie. 
+Film entertainment is big business in the United States and it was estimated that the film entertainment business generated $35.3B in revenue in 2019 (Watson, 2020). The United States is among the biggest film industries in the world in general but also in terms of tickets sold per year, ranking behind China and India.
+
+Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired Flatiron Data Science team to help them better understand the movie industry. Our team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. We will then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
+
+In this report, we will investigate factors associated with commercially successful movies. This report gives a comprehensive evaluation on factors influencing the box office success of a movie such as production budget, domestic gross, international gross, worldwide gross, genre, source, creative type, production method, vote count, vote average, popularity , release time, runtime, studio, language. The business statements are formulated based on these attributes.
 
 ## Business Statement
 
@@ -57,7 +61,7 @@ https://docs.google.com/presentation/d/1z4NpXFo0wAAY2fHN5nDiM_VXM7UZJ-0R4Mn7mjt8
 
 4. A Blog Post which can be found at: 
 
-https://baotramduong.github.io/
+https://baotramduong.medium.com/data-science-vs-the-movie-industry-8e5645d1c88c
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
@@ -169,10 +173,11 @@ II.2.5  Joining the dataframes
 ### **Methodology:**
 
             1. Using seaborn package and matplotlib to visualize data
-            2. Get the general trend/ distribution of all movies 
+            2. Get the General Movies trend/ distribution of all movies 
             using distribution plot and/or bar plot.
-            3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
+            3. Get distribution of Top 100 Movies to see what is done differently to reach higher success 
             using distribution plot and/or bar plot and/or scatter plot and/or line plot.
+            4. See if there is a correlation/ linear relationship between variables and calculate for Pearson correlation coefficient.
             4. Do analysis on the mean average using box plot.
             5. Do analysis on each category using swarm plot.
             6. Compare all movies all at once using rel plot.
@@ -362,39 +367,39 @@ II.2.5  Joining the dataframes
             - r2 = 0.358
             - Production budget is positively correlated with worldwide profit.
             
-            - The average production budget in general is $68M dollars.
-            - The average worldwide profit in general is $179M dollars.
+            - The average production budget in general is $68M.
+            - The average worldwide profit in general is $179M.
             
-            - The average production budget in top 100 performers is $151M dollars.
-            - The average worldwide profit of the Top 100 performers is $624M dollars.
+            - The average production budget in top 100 performers is $151M.
+            - The average worldwide profit of the Top 100 performers is $624M.
             
             Decision: $150M and up
 
 **Question 2:** What kind of movie contents, in term of genre, source, creative type, production method, perform the best?
 
             Genre
-            - The average worldwide profit for Action genre is $692M dollars.
-            - The average worldwide profit for Adventure genre is $591M dollars.
-            - The average worldwide profit for Thriller/Suspense genre is $587M dollars.
-            - The average worldwide for Musical genre is $502M dollars.
+            - The average worldwide profit for Action genre is $692M.
+            - The average worldwide profit for Adventure genre is $591M.
+            - The average worldwide profit for Thriller/Suspense genre is $587M.
+            - The average worldwide for Musical genre is $502M.
             Decision: Action and Adventure
 
             Source
-            - The average worldwide profit for Based on Comic/Graphic Novel source is $682M dollars.
-            - The average worldwide profit for Based on Fiction Book/Short Story source is $610M dollars.
-            - The average worldwide profit for Original Screenplay source is $591M dollars.
+            - The average worldwide profit for Based on Comic/Graphic Novel source is $682M.
+            - The average worldwide profit for Based on Fiction Book/Short Story source is $610M.
+            - The average worldwide profit for Original Screenplay source is $591M.
             Decision: Based on Comic Graphic/ Novel
 
             Creative Type
-            - The average worldwide profit for Super Hero creative type is $683M dollar.
-            - The average worldwide profit for Based on Science Fiction creative type is $595M dollars.
-            - The average worldwide profit for Contemporary Fiction creative type is $705M dollars.
+            - The average worldwide profit for Super Hero creative type is $683M.
+            - The average worldwide profit for Based on Science Fiction creative type is $595M.
+            - The average worldwide profit for Contemporary Fiction creative type is $705M.
             Decision: To be decided between Super Hero vs. Contemporary Fiction
 
             Production Method
-            - The average worldwide profit for Animation/Live Action production method is $692M dollar.
-            - The average worldwide profit for Live Action production method is $606M dollars.
-            - The average worldwide profit for Digital Animation production method is $606M dollars.
+            - The average worldwide profit for Animation/Live Action production method is $692M.
+            - The average worldwide profit for Live Action production method is $606M.
+            - The average worldwide profit for Digital Animation production method is $606M.
             Decision: To be decided between Animation/ Live Action vs. Live Action
 
 **Question 3:** Is there a correlation between popularity and positive words of mounth (average rating) and profit? How do they affect the performance of a movie?
@@ -457,11 +462,19 @@ II.2.5  Joining the dataframes
             - Universal Studio is the highest grossing studios: $825M
             - Buena Vista aka Walt Disney Motion Pictures is the second highest grossing studio: $723M
 
-**Extra:** What is the most popular language?
-
-            - English is the most popular language
-
 ##  Summary of Actionable Insights
+
+Results suggest that the following factors are positively associated with a movie success:
+
+            - Production budget = $150M and up
+            - Genre = Action & Adventure
+            - Source = Based on comic graphic/ novel
+            - Creative Type = Super Hero
+            - Production Method = Animation/ Live Action
+            - Release month = June
+            - Runtime = 120 mins and up
+            
+            - Critics reviews and public rating can be informative.
 
 ##  Future Works
 
