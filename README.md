@@ -65,6 +65,8 @@ https://baotramduong.medium.com/data-science-vs-the-movie-industry-8e5645d1c88c
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
+https://youtu.be/oVBHv7g1yYc
+
 # **Notebook Table of Contents**
 
 ## PART I: Data Cleaning and Preparation From Provided Data
