@@ -46,7 +46,6 @@ There are 5 deliverables for this project:
 2. An organized README.md file that describes the contents of the repository.
 
              - README.md: describes the content and organization of content.
-             - LICENSE.md: Learn.co Educational Content License
              - module1_project_rubric.pdf: describes requirements for this project.
              - zippedData folder: contains all provided data from Flatiron, additional scraped data, 
              and all figures for visualization.
@@ -54,7 +53,7 @@ There are 5 deliverables for this project:
              - Part II: Jupyter notebook
              - Part III.A: Jupyter notebook
              - Part III.B: Jupyter notebook
-             - Presentation
+             - Presentation pdf
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
 
