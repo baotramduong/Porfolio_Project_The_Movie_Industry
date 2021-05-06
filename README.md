@@ -486,4 +486,21 @@ Based on Quora and many other suggestions on the Internet:
             11. Critics
             12. Diversity: female directors, women of color, Black Lives Matter movement, etc.
 
+## Reference
+Follows, S. (2020, January 10). How movies make money: $100m+ Hollywood blockbusters. Stephen Follows. https://stephenfollows.com/how-movies-make-money-hollywood-blockbusters/.
 
+Katz, B. (2019, September 30). Universal Is Disney’s Chief Rival Because It Isn’t Trying to Be Disney. Observer. https://observer.com/2019/09/abominable-box-office-universal-pictures-disney-warner-bros/.
+
+Mullich, D. (N/A). Movies: What determines the success of a movie (by box office revenue)? — Quora. https://www.quora.com/Movies-What-determines-the-success-of-a-movie-by-box-office-revenue.
+
+Pressbooks. (2016, March 22). 8.3 Movies and Culture — Understanding Media and Culture. Pressbooks. https://open.lib.umn.edu/mediaandculture/chapter/8-3-movies-and-culture/.
+
+Staff, S. X. (2017, November 7). Study explores what really makes a movie successful. Phys.Org. https://phys.org/news/2017-11-explores-movie-successful.html#:%7E:text=Star%20power%2C%20acting%20expertise%2C%20rousing,decision%20to%20see%20a%20movie.&text=In%20fact%2C%20choosing%20a%20film,of%20movie%20success%2C%20says%20Carrilla.
+
+Stimpert, J. L., Laux, J. A., Marino, C., & Gleason, G. (2008). Factors Influencing Motion Picture Success: Empirical Review And Update. Journal of Business & Economics Research (JBER), 6(11). https://doi.org/10.19030/jber.v6i11.2488.
+
+The Numbers. Movie Budgets, Most Expensive Movies, Most Profitable Movies, Biggest Money-Losing Movies. (NA). The Numbers. https://www.the-numbers.com/movie/budgets.
+
+Towers, G. (2018, September 6). 10 Reasons Why Everyone Has Seen a Superhero Movie — Frame Rated. Medium. https://medium.com/framerated/10-reasons-why-superhero-films-are-so-popular-2ce69d2d93ea#:%7E:text=While%20part%20of%20the%20appeal,relatable%20and%20closer%20to%20home.
+
+Watson, A. (2020, November 10). Film Industry — Statistics & Facts. Statista. https://www.statista.com/topics/964/film/#:%7E:text=Film%20entertainment%20is%20big%20business,dollars%20in%20revenue%20in%202019.
