@@ -6,7 +6,7 @@ Film entertainment is big business in the United States and it was estimated tha
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired Flatiron Data Science team to help them better understand the movie industry. Our team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. We will then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
 
 In this report, we will investigate factors associated with commercially successful movies. This report gives a comprehensive evaluation on factors influencing the box office success of a movie such as production budget, domestic gross, international gross, worldwide gross, genre, source, creative type, production method, vote count, vote average, popularity , release time, runtime, studio, language. The business statements are formulated based on these attributes.
-
+ 
 ## Business Statement
 
 **Q1.** Is there a correlation between production budget and profit? If so, how much should Microsoft invest into production?
