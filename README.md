@@ -1,4 +1,10 @@
 # Data Science vs. The Movie Industry
+
+# Blog
+
+[Medium Blog](https://baotramduong.medium.com/data-science-vs-the-movie-industry-8e5645d1c88c  'Blog')
+
+## Introduction
 This project was completed as part of Flatiron School's Data Science Bootcamp (November 2020)
 
 Film entertainment is big business in the United States and it was estimated that the film entertainment business generated $35.3B in revenue in 2019 (Watson, 2020). The United States is among the biggest film industries in the world in general but also in terms of tickets sold per year, ranking behind China and India.
@@ -19,158 +25,7 @@ In this report, we will investigate factors associated with commercially success
 
 **Q5.** Is there a correlation between runtime and profit? What is the best runtime?
 
-## The Deliverables
-There are 5 deliverables for this project:
-
-1. A well documented Jupyter Notebook containing any code and comments explaining it.
-
-            - Part I: Data cleaning & preparation from provided data
-            
-            - Part II: Data cleaning & preparation from scraped data
-            
-            - Part III.A: Data analysis and visualization Q1 - Q3
-            
-                   Q1. Production budget vs. Profit
-
-                   Q2. Movie contents: genre, source, creative type, production method vs. Profit
-
-                   Q3. Popularity or words of mouth, in term of rating and number of votes vs. Profit
-            
-            - Part III.B: Data analysis and visualization Q4 - Q5 
-            + actionable insights + conclusion & future works
-                           
-                   Q4. Release time vs. Profit
-                          
-                   Q5. Runtime vs. Profit
-            
-2. An organized README.md file that describes the contents of the repository.
-
-             - README.md: describes the content and organization of content.
-             - module1_project_rubric.pdf: describes requirements for this project.
-             - zippedData folder: contains all provided data from Flatiron, additional scraped data, 
-             and all figures for visualization.
-             - Part I: Jupyter notebook
-             - Part II: Jupyter notebook
-             - Part III.A: Jupyter notebook
-             - Part III.B: Jupyter notebook
-             - Presentation pdf
-
-3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
-
-https://github.com/baotramduong/dsc-mod-1-project-v2-1-online-ds-sp-000/blob/master/Presentation.pdf
-
-4. A Blog Post which can be found at: 
-
-https://baotramduong.medium.com/data-science-vs-the-movie-industry-8e5645d1c88c
-
-5. A Video Walkthrough of my non-technical presentation, can be found at:
-
-https://youtu.be/oVBHv7g1yYc
-
-# **Notebook Table of Contents**
-
-## PART I: Data Cleaning and Preparation From Provided Data
-
-### **1.  Introduction**
-
-1.1  Business Statement
-
-### **2.  Data Preparation From Provided Data**
-
-I.2.1 Methodology
-
-             1. Get data from provided data
-             3. Gather all attributes to answer questions: budget, domestic gross, 
-             international gross, worldwide gross, vote count, vote average, 
-             popularity , release time, runtime, studio, language
-             4. Deal with missing and null values
-             5. Deal with duplicates
-             6. Correct datatypes if needed
-
-I.2.2 Data Sources:
-      
-            - Box Office Mojo
-            - IMDB
-            - Rotten Tomatoes
-            - TheMovieDB.org
-
-I.2.3  Data reading
-
-I.2.4  Data cleaning
-
-            I.2.4.a Production budget & gross:
-
-            - Budget
-            - Domestic gross, worldwide gross
-            - Studio
-            
-            I.2.4.b Movie Basics:
-            
-            - Runtime
-            - Genre
-            
-            I.2.4.c Populatiry / Words of mouth: 
-
-            - Vote count
-            - Vote average
-            - Popularity       
-            - Language
-
-I.2.5  Joining the dataframes
-
-             - Production budget & gross: movie_budgets_gross_df
-             - Movie basics: release date, genre, runtime: title_basics_df
-             - Popularity/ Words of mouth: vote count, vote average, 
-             popularity score: title_basics_rating_df
-             - Production crew: director, writer: names_titles_df
-             - All together: merged_df_1
-
-## PART II: Data Cleaning and Preparation From Scraped Data
-
-### **1.  Introduction**
-
-1.1  Business Statement
-
-### **2.  Data Preparation From Scraped Data**
-
-II.2.1 Methodology
-
-             1. Scrape additional data from www.the-numbers.com
-             2. Gather all attributes to answer questions: genre, source, 
-             creative type, production method
-             3. Deal with missing and null values
-             4. Deal with duplicates
-             5. Correct datatypes if needed
-             
-II.2.2 Data sources:
-      
-            - www.the-numbers.com
-
-II.2.3  Data scraping
-
-            - Top 100 grossing movie of each year from 2010 to 2018
-
-II.2.4  Data cleaning
-
-            - Budget
-            - Domestic gross, international gross, worldwide gross
-            - Genre
-            - Source
-            - Creative type
-            - Production method 
-
-II.2.5  Joining the dataframes
-
-            - Scraped dataset: merged_df_2
-            - full_df = merged_df_1 + merged_df_2
-
-## PART III.A: Data Visualization, Actionable Insights, Conclusion & Future Works
-
-### **1.  Introduction**
-
-1.1  Business Statement
-
-### **2. Data Visualization**
+## **2. Data Visualization**
 
 ### **Methodology:**
 
@@ -289,24 +144,6 @@ II.2.5  Joining the dataframes
 ![alt text](../master/zippedData/creative_type_rating_profit_relplot.png?raw=true)
 
 ![alt text](../master/zippedData/production_method_rating_profit_relplot.png?raw=true)
-
-## PART III.B: **Data Visualization, Actionable Insights, Conclusion & Future Works**
-
-### **1.  Introduction**
-
-1.1  Business Statement
-
-### **2. Data Visualization**
-
-### **Methodology:**
-
-            1. Using seaborn package and matplotlib to visualize data
-            2. Get the general trend/ distribution of all movies using distribution plot and/or bar plot.
-            3. Get distribution of Top 100 movies to see what is done differently to reach higher success 
-            using distribution plot and/or bar plot and/or scatter plot and/or line plot.
-            4. Do analysis on the mean average using box plot.
-            5. Do analysis on each category using swarm plot.
-            6. Compare all movies all at once using rel plot.
             
 **Question 4:** When is the best time of year to release a movie, in term of month and day of the week?
 
@@ -465,7 +302,6 @@ Results suggest that the following factors are positively associated with a movi
             - Production Method = Animation/ Live Action
             - Release month = June
             - Runtime = 120 mins and up
-            
             - Critics reviews and public rating can be informative.
 
 ##  Future Works
